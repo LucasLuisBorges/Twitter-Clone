@@ -11,5 +11,6 @@
 
 ## Dow to boot
 
+### `yarn`
 ### `yarn start`
 

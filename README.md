@@ -28,7 +28,7 @@ yarn install
 Run the project:
 
 ```
-yarn dev
+yarn start
 ```
 
 ## 🛠️ Built with:
